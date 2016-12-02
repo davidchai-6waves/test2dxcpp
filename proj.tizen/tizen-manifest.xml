@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.sixwaves.test2dxcpp" version="1.0.0">
+    <ui-application appid="com.sixwaves.test2dxcpp" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>test2dxcpp</label>
+        <icon>test2dxcpp.png</icon>
+    </ui-application>
+</manifest>
